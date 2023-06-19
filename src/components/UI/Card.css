@@ -1,0 +1,6 @@
+.card-container {
+    box-shadow: rgba(0, 0, 0, 0.404) 0px 2px 8px 0px;
+    background-color: rgb(100, 100, 100) ;
+    padding: .5rem .7rem;
+    border-radius: .5rem;
+}
